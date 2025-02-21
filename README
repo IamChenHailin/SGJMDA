@@ -1,0 +1,1 @@
+Environment Requirements Python 3.8.16 Pytorch 1.13.0+cu117 PyTorch Geometric 2.3.1 numpy 1.23.5 sklearn 1.2.2  dgl 1.0.2+cu117
